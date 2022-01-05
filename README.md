@@ -1,6 +1,8 @@
 # Airflow porcão
 
-Um deploy simples do Airflow em uma EC2 e bucket que sincroniza as dags feito em uma hora. Não use isso em produção de jeito nenhum pela mor de Deus.
+> Yuri Niitsuma <ignitzhjfk@gmail.com>
+
+Um deploy simples do Airflow em uma EC2 e bucket que sincroniza as dags. Esse código foi feito em uma hora com uma arma na cabeça. Não use isso em produção de jeito nenhum pela mor de Deus.
 
 Esse código serve como demonstração do terraform com Airflow se quiser testar algo Just-in-time.
 
